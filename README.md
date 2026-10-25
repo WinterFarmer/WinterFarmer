@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm not a developer—just a regular guy who enjoys **high-quality audio & video** and classic **Java games**. 
+I'm not a developer, just a regular guy who enjoys **high-quality audio & video** and classic **Java games**. 
 
 I use GitHub purely as a personal workshop to build, tweak, and compile things that fulfill my own needs around those hobbies, working within the limits of a modest Android device.
 
